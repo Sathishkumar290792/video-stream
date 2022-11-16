@@ -8,7 +8,7 @@
 		<version>2.6.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ask.home</groupId>
+	<groupId>com.app.videostream</groupId>
 	<artifactId>video-stream</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>VideoStreaming</name>

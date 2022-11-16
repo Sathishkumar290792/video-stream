@@ -1,4 +1,4 @@
-package com.ask.home.videostream.constants;
+package com.app.videostream.constants;
 
 public class ApplicationConstants {
     public static final String VIDEO = "/video";

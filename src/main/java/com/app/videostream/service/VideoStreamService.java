@@ -1,13 +1,13 @@
-package com.ask.home.videostream.service;
+package com.app.videostream.service;
 
-import static com.ask.home.videostream.constants.ApplicationConstants.ACCEPT_RANGES;
-import static com.ask.home.videostream.constants.ApplicationConstants.BYTES;
-import static com.ask.home.videostream.constants.ApplicationConstants.BYTE_RANGE;
-import static com.ask.home.videostream.constants.ApplicationConstants.CHUNK_SIZE;
-import static com.ask.home.videostream.constants.ApplicationConstants.CONTENT_LENGTH;
-import static com.ask.home.videostream.constants.ApplicationConstants.CONTENT_RANGE;
-import static com.ask.home.videostream.constants.ApplicationConstants.CONTENT_TYPE;
-import static com.ask.home.videostream.constants.ApplicationConstants.VIDEO_CONTENT;
+import static com.app.videostream.constants.ApplicationConstants.ACCEPT_RANGES;
+import static com.app.videostream.constants.ApplicationConstants.BYTES;
+import static com.app.videostream.constants.ApplicationConstants.BYTE_RANGE;
+import static com.app.videostream.constants.ApplicationConstants.CHUNK_SIZE;
+import static com.app.videostream.constants.ApplicationConstants.CONTENT_LENGTH;
+import static com.app.videostream.constants.ApplicationConstants.CONTENT_RANGE;
+import static com.app.videostream.constants.ApplicationConstants.CONTENT_TYPE;
+import static com.app.videostream.constants.ApplicationConstants.VIDEO_CONTENT;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;

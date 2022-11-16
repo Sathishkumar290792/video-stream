@@ -1,4 +1,4 @@
-package com.ask.home.videostream.controller;
+package com.app.videostream.controller;
 
 import java.io.IOException;
 import java.nio.file.Path;
@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestPart;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.ask.home.videostream.service.VideoStreamService;
+import com.app.videostream.service.VideoStreamService;
 
 import reactor.core.publisher.Mono;
 
